@@ -3,3 +3,12 @@ Hello World
 Some extra text
 
 some extra test text
+
+changes that occur during the second branch creation which is just 
+another new branch. this branch was created on GH desktop. 
+
+also adding some text here to test out the "git add -u" command 
+which theoritcally is only supposed to add modified and deleted files 
+only not new files. Therefore, this file being a modified file should 
+be staged while the index.html file that was just added shouldnt 
+be staged. I will now try the command. 
